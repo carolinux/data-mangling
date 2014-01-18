@@ -4,7 +4,7 @@ import sys
 import argparse
 
 __author__ = 'Karolina ALexiou'
-__email__ = 'karolina.alexiou@teralytics.ch'
+__email__ = 'carolinegr@gmail.com'
 
 if __name__=="__main__":
 

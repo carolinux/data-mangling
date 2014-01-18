@@ -3,7 +3,7 @@ from avro import schema, datafile, io
 import argparse
 
 __author__ = 'Karolina ALexiou'
-__email__ = 'karolina.alexiou@teralytics.ch'
+__email__ = 'carolinegr@gmail.com'
 
 def load_schema(schema_file):
 	return schema.parse(open(schema_file).read())
