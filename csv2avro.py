@@ -1,3 +1,5 @@
+#TODO: make more functional
+#TODO: add unit tests, fastavro
 import pandas as pd
 from avro import schema, datafile, io
 import argparse
